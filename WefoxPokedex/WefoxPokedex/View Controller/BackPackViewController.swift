@@ -201,7 +201,6 @@ class BackPackViewController: UICollectionViewController {
             }
             
         }
-        self.loading.isHidden = true
     }
     
    
